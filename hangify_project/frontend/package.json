@@ -24,6 +24,6 @@
     "@babel/plugin-proposal-class-properties": "^7.17.12",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.8.5",
-    "react-router-dom": "^6.3.0"
+    "react-router-dom": "^5.2.0"
   }
 }
